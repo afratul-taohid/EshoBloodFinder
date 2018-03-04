@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Esho Blood Finder</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9551927371844997/2948453662</string>
+    <string name="Interstitial">ca-app-pub-9551927371844997/4181644289</string>
+
+    <string name="nerdgeeks_developer">© NerdGeeks Developer</string>
+    <string name="version_name">Version Name : 1.0</string>
+    <string name="version_code">Version Code : 1</string>
+
+    <!--Popup Strings-->
+    <string name="menu_all">Dhaka</string>
+    <string name="menu_ap">Chittagong</string>
+    <string name="menu_an">Sylhet</string>
+    <string name="menu_bp">Barisal</string>
+    <string name="menu_bn">Comilla</string>
+    <string name="menu_abp">Rajshahi</string>
+    <string name="menu_abn">Khulna</string>
+
+    <!-- Google Map Strings -->
+    <string name="no_geocoder_available">No geocoder available</string>
+
+    <string name="fetch_address">Fetch address</string>
+
+    <string name="address_found">Address found</string>
+
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+    <string name="cheese_hunt_hint">Type an address</string>
+
+    <!-- Layout Strings -->
+    <string name="hint_name">Full Name</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_password">Code</string>
+    <string name="btn_signUp">Sign Up</string>
+    <string name="btn_signIn">LOGIN</string>
+    <string name="link_to_signIn">Already have an account? Sign In</string>
+    <string name="link_to_signUp">New here? Register</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="btn_addDonor">Add Donor</string>
+
+    <!-- Google Map API Key -->
+    <string name="google_map_api_key">AIzaSyAWTLXW7BKwW_jAGHmbo7pg2LMe-9H9ZZs</string>
+
+
+    <string name="btn_custom">Button in custom layout</string>
+    <string name="dp">Display Name</string>
+    <string name="hotlines">Hotlines</string>
+    <string name="menu_item_map">Nearby Map</string>
+    <string name="menu_item_messages">Messages</string>
+    <string name="send">Send Request</string>
+    <string name="private_mode">Number is in private mode</string>
+    <string name="profile">Profile</string>
+    <string name="accept">Call</string>
+    <string name="rating">Review</string>
+    <string name="fake">Fake</string>
+    <string name="search">Search</string>
+    <string name="edit">Edit</string>
+    <string name="hint_email"> Email (Optional)</string>
+    <string name="last_donated">Last Donated : Never</string>
+    <string name="call">Call</string>
+
+</resources>

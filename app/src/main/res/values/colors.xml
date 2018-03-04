@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DE1F27</color>
+    <color name="colorPrimaryDark">#CA0A20</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="drawerColor">#00858D</color>
+    <color name="selectedColor">#169C91</color>
+    <color name="dialog_color">#4D4D4D</color>
+</resources>

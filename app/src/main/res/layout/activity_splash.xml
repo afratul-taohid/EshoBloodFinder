@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash"
+    android:background="#DE1F27"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.app.appathon.blooddonateapp.activities.SplashActivity">
+
+    <LinearLayout
+        android:id="@+id/splash"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/splashImage"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:src="@drawable/ic_esho_blood_finder" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:id="@+id/splashText"
+            android:layout_gravity="center"
+            android:text="@string/app_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="#FFFFFF" />
+
+        <ImageView
+            android:alpha="0.9"
+            android:layout_gravity="center"
+            android:background="@drawable/round_bg"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/nerdgeeks_logo"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

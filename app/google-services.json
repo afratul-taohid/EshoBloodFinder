@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "556477297804",
+    "firebase_url": "https://blood-map-44799.firebaseio.com",
+    "project_id": "blood-map-44799",
+    "storage_bucket": "blood-map-44799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556477297804:android:4a895571f3d13499",
+        "android_client_info": {
+          "package_name": "com.app.appathon.blooddonateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556477297804-rum0l8kubgdv719vd9f1478r8cf50mee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.appathon.blooddonateapp",
+            "certificate_hash": "373fa5cc7bb122e7e54cca4a2602018eb2f5d48e"
+          }
+        },
+        {
+          "client_id": "556477297804-f4g6j55u7jgokcbsu228pvulrdv8osdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTLXW7BKwW_jAGHmbo7pg2LMe-9H9ZZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556477297804-f4g6j55u7jgokcbsu228pvulrdv8osdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

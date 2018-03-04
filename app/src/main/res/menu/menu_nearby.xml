@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_filter"
+        android:background="@color/colorPrimary"
+        android:title="@string/edit"
+        android:icon="@drawable/btn_filter"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:title="All"
+                android:id="@+id/all"
+                app:showAsAction="never"
+                />
+
+            <item
+                android:title="A+"
+                android:id="@+id/a_pos"
+                app:showAsAction="never"
+                />
+
+            <item
+                android:title="A-"
+                android:id="@+id/a_neg"
+                app:showAsAction="never"
+                />
+
+            <item
+                android:title="B+"
+                android:id="@+id/b_pos"
+                app:showAsAction="never"
+                />
+
+            <item
+                android:title="B-"
+                android:id="@+id/b_neg"
+                app:showAsAction="never"
+                />
+
+            <item
+                android:title="AB+"
+                android:id="@+id/ab_pos"
+                app:showAsAction="never"
+                />
+
+            <item
+                android:title="AB-"
+                android:id="@+id/ab_neg"
+                app:showAsAction="never"
+                />
+
+            <item
+                android:title="O+"
+                android:id="@+id/o_pos"
+                app:showAsAction="never"
+                />
+
+            <item
+                android:title="O-"
+                android:id="@+id/o_neg"
+                app:showAsAction="never"
+                />
+        </menu>
+
+    </item>
+</menu>
