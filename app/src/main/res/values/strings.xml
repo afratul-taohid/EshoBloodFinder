@@ -42,7 +42,7 @@
     <string name="btn_addDonor">Add Donor</string>
 
     <!-- Google Map API Key -->
-    <string name="google_map_api_key">AIzaSyAWTLXW7BKwW_jAGHmbo7pg2LMe-9H9ZZs</string>
+    <string name="google_map_api_key"></string>
 
 
     <string name="btn_custom">Button in custom layout</string>
